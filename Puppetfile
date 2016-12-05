@@ -1,3 +1,3 @@
-mod 'bharadwajrembar/puppet',
-  :git => "https://github.com/bharadwajrembar/modules"
+mod '../modules',
+  :git => "https://github.com/bharadwajrembar/modules/"
 
