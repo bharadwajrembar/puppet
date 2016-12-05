@@ -4,6 +4,6 @@ mod 'puppetlabs-stdlib',
   :git => "git://github.com/puppetlabs/puppetlabs-stdlib.git"
 
 mod 'ec2_autoscaling',
-  :git => "https://github.com/bharadwajrembar/puppet/ec2_autoscaling"
-  :branch => "dev"
-  :path => /etc/puppet/environments/dev/modules/"
+  :git => "https://github.com/bharadwajrembar/puppet/ec2_autoscaling",
+  :branch => 'dev',
+  :install_path => './modules'
