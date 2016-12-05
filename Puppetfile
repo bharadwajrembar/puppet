@@ -1,3 +1,3 @@
-moduledir './modules'
+forge "https://forgeapi.puppetlabs.com"
 
-mod 'puppetlabs/puppetlabs-stdlib'
+mod 'puppetlabs/apache'
