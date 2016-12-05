@@ -1,4 +1,5 @@
 mod 'modules',
   :git  => "https://github.com/bharadwajrembar/puppet",
-  :branch => "dev"
+  :branch => "dev",
+  :install_path => '../'
 
