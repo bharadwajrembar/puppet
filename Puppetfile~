@@ -1,4 +1,4 @@
 moduledir 'modules'
 
-mod 'puppet/ec2_autoscaling',
+mod '',
   :git => ''
