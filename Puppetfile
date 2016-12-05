@@ -1,6 +1,4 @@
-moduledir './modules'
-
-mod 'modules/ec2_autoscaling',
+mod 'modules',
   :git  => "https://github.com/bharadwajrembar/puppet",
   :branch => "dev"
 
