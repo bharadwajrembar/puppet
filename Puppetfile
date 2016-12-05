@@ -1,3 +1,3 @@
-mod 'modules',
-  :git  => "https://github.com/bharadwajrembar/puppet",
-  :branch => "dev"
+mod 'apache',
+  :git => 'https://github.com/puppetlabs/puppetlabs-apache'
+
